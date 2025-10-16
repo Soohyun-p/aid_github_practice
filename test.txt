@@ -1,5 +1,2 @@
-<<<<<<< HEAD
 main_hello
-=======
-test
->>>>>>> mylocal
+
